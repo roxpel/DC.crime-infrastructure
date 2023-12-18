@@ -17,15 +17,15 @@ For the analysis purpose, we start with a comprehensive exploratory analysis com
 ### Index
 
 
-[1. Introduction and Literature review](https://ericaeturner.github.io/DC.crime.and.infrastructure/int_lit_review)
+[1. Introduction and Literature review](https://roxpel.github.io/DC.crime-infrastructure/int_lit_review)
 
-[2. Data cleaning ](https://ericaeturner.github.io/DC.crime.and.infrastructure/Data.cleaning)
+[2. Data cleaning ](https://roxpel.github.io/DC.crime-infrastructure/Data.cleaning)
 
-[3. Summary statistics](https://ericaeturner.github.io/DC.crime.and.infrastructure/Summary-Statistics)
+[3. Summary statistics](https://roxpel.github.io/DC.crime-infrastructure/Summary-Statistics)
 
-[4. Point pattern analysis](https://ericaeturner.github.io/DC.crime.and.infrastructure/pointpattern)
+[4. Point pattern analysis](https://roxpel.github.io/DC.crime-infrastructure/pointpattern)
 
-[5. Spatial regression](https://ericaeturner.github.io/DC.crime.and.infrastructure/Spatial.regression)
+[5. Spatial regression](https://roxpel.github.io/DC.crime-infrastructure/Spatial.regression)
 
 
 ### Files description
